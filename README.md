@@ -121,13 +121,9 @@ This is an educational project. If you'd like to contribute:
 4. Push to the branch
 5. Open a pull request
 
-## License
-
-This project is for educational purposes.
-
 ## Author
 
-Andrew Beaver - NSCC
+Andrew Beaver
 
 ## Acknowledgments
 
